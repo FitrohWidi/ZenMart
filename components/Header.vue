@@ -62,7 +62,7 @@ const logout = async () => {
       >
         <!-- Logo -->
         <img
-          src="../public/images/icons/img.png"
+          src="../public/images/icons/Zenitsuur.png"
           style="height: 50px"
           alt="TE Logo"
           loading="lazy"
